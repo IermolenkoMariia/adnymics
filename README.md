@@ -25,3 +25,11 @@ $ python app.py
 ```
 
 This application will be available on http://localhost:5000
+
+### Bonus
+
+To test an application, run:
+
+```
+$ python test.py
+```
